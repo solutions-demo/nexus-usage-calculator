@@ -1,0 +1,6 @@
+File,Total Bytes Sent,Total Bytes Received,GET Bytes Sent,POST Bytes Sent,PUT Bytes Sent,DELETE Bytes Sent,Total Duration
+sample-request.log,27944,77,24232,3712,0,0,0d/3hr/15m/59s
+sample-request2.log,4346054,100,4342342,3712,0,0,1d/0hr/4m/0s
+
+Total Bytes Sent Across All Files (Bytes),4373998,177,4366574,7424,0,0,1d/3hr/19m/59s
+Total Bytes Sent Across All Files (GBs),1 GB,1 GB,1 GB,1 GB,0 GB,0 GB,1d/3hr/19m/59s
