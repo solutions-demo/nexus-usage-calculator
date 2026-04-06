@@ -37,6 +37,7 @@ The results are summarized as gigabytes (GB).
 
 ## Usage
 1. Place your `.log` files in a directory (e.g., `logs_directory`).
+    - These log files are in your nexus $data-dir, which is usually a "sonatype-work/nexus" folder in your installation.
 2. Edit the script to point to the correct input directory if you wish to specify a different directory or output file:
     - Set the variable `input_directory` to the path where your `.log` files are stored.
     - Set the variable `output_csv_file` to the desired name and location for the CSV output.
